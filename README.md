@@ -37,6 +37,8 @@ In particular:
 - Parameters: 500 max iterations with a tolerance of 1e-4.
 - Visualization: Produced a 14 x 14 3D scatter plot with color-coded clusters and marked centroids, revealing distinct "genomic signatures" among the bee genes.
 
+![K-Means Result](k-means_result.jpg)
+
 
 ## Discussion
 - Biological Meaning: The use of $GC$ frequency as a clustering variable is significant because $GC$ pairs have three hydrogen bonds (compared to two for $AT$), affecting the stability and "melting temperature" of the DNA.
