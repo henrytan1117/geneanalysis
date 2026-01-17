@@ -47,6 +47,9 @@ In particular:
 - Technical Scalability: By using Batch Writing and Bind Variables, the system is designed to handle significantly larger genomic datasets without a linear increase in database overhead.
 
 
+## Acknowledgement
+- This project was completed as the final-semester project for STSCI 4060: Python Programming and Its Application in Statistics by Professor Xiaolong Yang.
+- This project was awarded 100% for its successful execution, data processing and retrieval, machine learning and visualization.
 
 
 
