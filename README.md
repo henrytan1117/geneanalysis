@@ -50,6 +50,7 @@ In particular:
 ## Acknowledgement
 - This project was completed as the final-semester project for STSCI 4060: Python Programming and Its Application in Statistics by Professor Xiaolong Yang.
 - This project was awarded 100% for its successful execution, data processing and retrieval, machine learning and visualization.
+- To replicate the results, please refer to the file [instruction.md](instruction.md) in the directory.
 
 
 
