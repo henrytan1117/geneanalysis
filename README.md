@@ -31,6 +31,8 @@ In particular:
 ## Results & Key Findings
 (1) Successful Integration: Developed a dynamic system where CGI scripts automatically parse raw genomic text and populate an Oracle table (beeGenes) with 7 distinct columns of data.
 
+![Result](result.jpg)
+
 (2) Database Confirmation: Verified data integrity by retrieving the final entry in the dataset (GI: 147907436) via a dedicated Python query script.
 
 (3) Clustering Analysis: Executed a 7-cluster K-Means analysis in a 3D space (freq\_A, freq\_T, freq\_GC).
